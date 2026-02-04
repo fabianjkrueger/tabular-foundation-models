@@ -1,0 +1,9 @@
+# virtual environment / uv installations
+.venv/
+__pycache__/
+
+# data
+# file is large, so it won't be tracked
+# but thre are scripts for downloading and processing
+data/
+
